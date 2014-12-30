@@ -1,3 +1,7 @@
+// Copyright 2014 Tim Heckman. All rights reserved.
+// Use of this source code is governed by the BSD 3-Clause
+// license that can be found in the LICENSE file.
+
 // Package hecktest is a shared library for
 // code that can be reused for unit testing.
 //
